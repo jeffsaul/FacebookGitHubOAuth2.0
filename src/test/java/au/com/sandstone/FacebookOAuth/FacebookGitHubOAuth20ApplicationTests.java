@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class FacebookOAuthApplicationTests {
+public class FacebookGitHubOAuth20ApplicationTests {
 
 	@Test
 	public void contextLoads() {
